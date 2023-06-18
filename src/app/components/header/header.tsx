@@ -12,7 +12,7 @@ export function Header() {
         </div>
       <Image
         src="/me.jpeg"
-        alt="Vercel Logo"
+        alt="Kauan Mossini"
         width={280}
         height={277}
         priority
