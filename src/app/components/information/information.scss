@@ -7,6 +7,13 @@ gap: 24px;
 grid-area: info;
 max-width: 500px;
 
+span {
+
+    color: var(--text-secondary);
+    
+}
+
+
 .languages-info {
 display: flex;
 flex-direction: column;
@@ -16,10 +23,14 @@ width: 100%;
 
 }
 
-span {
+.educational-info {
 
-    color: var(--text-secondary);
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    width: 100%;
+
 }
-
 }
 
