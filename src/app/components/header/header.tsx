@@ -8,13 +8,13 @@ export function Header() {
     <div className="header"> 
       <div>
         <h1>Hi, i´m Kauan Mossini!👋</h1>
-        <h2>Developer</h2>
+        <h2>Front-End Developer</h2>
         </div>
       <Image
         src="/me.jpeg"
         alt="Kauan Mossini"
-        width={280}
-        height={277}
+        width={270}
+        height={260}
         priority
       />
     </div>
