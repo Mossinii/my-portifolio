@@ -6,7 +6,7 @@ weight: ['200', '300','400','500','600'] })
 
 export const metadata = {
   title: 'Kauan Mossini',
-  description: 'Kauana Mossini is a software engineer...',
+  description: 'Kauan Mossini is a Front-End Developer...',
 }
 
 export default function RootLayout({

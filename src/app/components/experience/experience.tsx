@@ -7,7 +7,7 @@ export function Experience() {
   return (
     <div className="experience">
       <SectionTitle text="Experience" />
-      <p>As a junior developer, I have a specialized focus on front-end development, working with various frameworks and technologies such as Node.js, SCSS, and TypeScript. I have experience in creating modern and responsive user interfaces using frameworks like React and Angular. Additionally, I am proficient in writing clean and modular code using TypeScript, which enhances the robustness and scalability of projects. I stay updated with industry best practices and have a passion for creating exceptional user experiences. I am excited to apply my front-end knowledge to contribute to challenging projects and create interactive and visually appealing solutions.3 years working as a Software Developer, in companys such as Itaú, Stone and Aftersale.</p>
+      <p>As a junior developer, I have a specialized focus on front-end development, working with various frameworks and technologies such as Node.js, SCSS, and TypeScript. I have experience in creating modern and responsive user interfaces using frameworks like React and Angular. Additionally, I am proficient in writing clean and modular code using TypeScript, which enhances the robustness and scalability of projects. I stay updated with industry best practices and have a passion for creating exceptional user experiences. I am excited to apply my front-end knowledge to contribute to challenging projects and create interactive and visually appealing solutions! </p>
 
       <div className="experience-time">
 

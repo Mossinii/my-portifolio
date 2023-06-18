@@ -3,12 +3,14 @@
 
     display: flex;
     flex-direction: column;
+    align-items: center;
     grid-area: header;
     gap: 24px;
     
     img {
-        border-radius: 50px;
-    }
+        border-radius: 90px;
+        object-fit: cover; /* Garante que a imagem mantenha a proporção e preencha o espaço disponível */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra suave à imagem */}
 
     h1{
         
@@ -16,6 +18,20 @@
         font-size: 28px;
         line-height: 42px;
         color: var(--text-primary);
+    
+            overflow: hidden; /* Esconde as letras iniciais do texto */
+            white-space: nowrap; /* Evita quebra de linha no texto */
+            animation: typewriter 1s steps(30) 1s forwards;
+          }
+          
+          @keyframes typewriter {
+            from {
+              width: 0; /* Inicia com largura zero */
+            }
+            to {
+              width: 100%; /* Termina com a largura total */
+            
+          }
     }
 
     h2 {

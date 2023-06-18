@@ -15,13 +15,12 @@ span {
 
 
 .languages-info {
-display: flex;
-flex-direction: column;
-gap: 24px;
-align-items: flex-start;
-width: 100%;
-
-}
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    width: 100%;
+  }
 
 .educational-info {
 
@@ -30,7 +29,6 @@ width: 100%;
     gap: 24px;
     align-items: flex-start;
     width: 100%;
-
 }
 }
 

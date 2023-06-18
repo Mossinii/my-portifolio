@@ -5,14 +5,14 @@ export function Info () {
 
 return (
     <div className="infos">
-    <SectionTitle text="languages"/>
+    <SectionTitle text="Languages"/>
     <div className="languages-info">
       <span> 🇺🇸 EN-Fluent</span>
       <span> 🇪🇸 ES-Intermediate</span>
       <span> 🇧🇷 PT-BR-Native Speaker</span>
     </div>
    
-    <SectionTitle text="education"/>
+    <SectionTitle text="Education"/>
     <div className="educational-info">
       <span>🎓Information Systems Bachelors Degree - Universidade de Caxias do Sul, 2024!</span>
       <span>🎓Basic Java Language Certificate</span>
