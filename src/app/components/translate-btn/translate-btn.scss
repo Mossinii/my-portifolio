@@ -1,0 +1,15 @@
+.translate-btn {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 10px;
+  
+    .flag-icon {
+      margin-right: 5px;
+      cursor: pointer;
+  
+      &.active {
+        color: blue; // Defina o estilo desejado para o ícone ativo
+      }
+    }
+  }                             
