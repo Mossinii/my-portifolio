@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { BsFillFlagFill } from 'react-icons/bs';
 import { FiFlag } from 'react-icons/fi';
 
-"use client"
+
 
 const TranslateBtn = () => {
   const [language, setLanguage] = useState('pt-BR');
