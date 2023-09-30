@@ -74,10 +74,26 @@ export function Experience() {
 
            <div className="experience-unit">
         <div className="experience-measure measure-1">
-          <span>6 Months</span>
+          <span>8 Months</span>
         </div>
     </div>
     
+        </div>
+
+        <div className="experience-language">
+          <Image
+            src="/python.png"
+            alt="Python Logo"
+            width={40}
+            height={40}
+            priority
+          />
+
+          <div className="experience-unit">
+            <div className="experience-measure measure-5">
+              <span>3 Months</span>
+            </div>
+          </div>
         </div>
 
         <div  className="experience-language">
@@ -98,5 +114,9 @@ export function Experience() {
 
       </div>
     </div>
+
+
+
+    
   )
 }
