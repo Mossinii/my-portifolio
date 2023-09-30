@@ -14,7 +14,7 @@ return (
    
     <SectionTitle text="Education"/>
     <div className="educational-info">
-      <span>🎓Information Systems Bachelors Degree - Universidade de Caxias do Sul, 2024!</span>
+      <span>🎓Java in Practice</span>
       <span>🎓Basic Java Language Certificate</span>
       <span>🎓Basic Programming Logic Certificate</span>
       <span>🎓C language projects using Arduino</span>
