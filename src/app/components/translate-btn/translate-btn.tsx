@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useState } from 'react';
 import { BsFillFlagFill } from 'react-icons/bs';
 import { FiFlag } from 'react-icons/fi';
