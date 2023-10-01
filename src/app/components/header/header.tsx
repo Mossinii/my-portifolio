@@ -11,7 +11,7 @@ export function Header() {
         <h2> Full-Stack Developer</h2>
         </div>
       <Image
-        src="/me.jpeg"
+        src="/me.jpg"
         alt="Kauan Mossini"
         width={270}
         height={260}
