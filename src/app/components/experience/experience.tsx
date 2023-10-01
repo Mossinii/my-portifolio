@@ -114,9 +114,6 @@ export function Experience() {
 
       </div>
     </div>
-
-
-
     
   )
 }
