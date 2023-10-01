@@ -7,8 +7,8 @@ export function Experience() {
   return (
     <div className="experience">
       <SectionTitle text="Experience" />
-      <p>Como desenvolvedor júnior, trago uma sólida experiência em várias linguagens e tecnologias, o que me permite atuar de forma abrangente em projetos full-stack. Ao longo do tempo, trabalhei com linguagens como Java, PHP e Python, conhecendo os principais frameworks associados a cada uma delas.
-         Minha experiência se destaca na escrita de código limpo e modular, especialmente usando TypeScript, o que fortalece a robustez e a escalabilidade dos projetos em que trabalho. Estou continuamente atualizado com as melhores práticas da indústria e tenho uma paixão profunda por criar experiências de usuário excepcionais. </p>
+      <p>As a junior developer, I bring solid experience in various languages and technologies, allowing me to work comprehensively on full-stack projects. Over time, I have worked with languages such as Java, PHP, and Python, familiarizing myself with the main frameworks associated with each of them.
+         My experience stands out in writing clean and modular code, especially using TypeScript, which enhances the robustness and scalability of the projects I work on. I stay consistently updated with industry best practices and have a deep passion for creating exceptional user experiences. </p>
 
       <div className="experience-time">
 
