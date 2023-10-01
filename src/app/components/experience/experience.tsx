@@ -7,7 +7,8 @@ export function Experience() {
   return (
     <div className="experience">
       <SectionTitle text="Experience" />
-      <p>As a junior developer, I have a specialized focus on front-end development, working with various frameworks and technologies such as Node.js, SCSS, and TypeScript. I have experience in creating modern and responsive user interfaces using frameworks like React and Angular. Additionally, I am proficient in writing clean and modular code using TypeScript, which enhances the robustness and scalability of projects. I stay updated with industry best practices and have a passion for creating exceptional user experiences. I am excited to apply my front-end knowledge to contribute to challenging projects and create interactive and visually appealing solutions! </p>
+      <p>Como desenvolvedor júnior, trago uma sólida experiência em várias linguagens e tecnologias, o que me permite atuar de forma abrangente em projetos full-stack. Ao longo do tempo, trabalhei com linguagens como Java, PHP e Python, conhecendo os principais frameworks associados a cada uma delas.
+         Minha experiência se destaca na escrita de código limpo e modular, especialmente usando TypeScript, o que fortalece a robustez e a escalabilidade dos projetos em que trabalho. Estou continuamente atualizado com as melhores práticas da indústria e tenho uma paixão profunda por criar experiências de usuário excepcionais. </p>
 
       <div className="experience-time">
 
